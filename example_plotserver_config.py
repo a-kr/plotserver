@@ -1,0 +1,5 @@
+PORT = 5101
+SECRET_KEY = 'mega-secret-key'
+PUBLIC_PLOTS = set()
+STD_SIZE = (600, 200)
+TRUST_KEY_LEN = 8
